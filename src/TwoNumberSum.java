@@ -1,6 +1,4 @@
-import java.util.Arrays;
-
-public class twoNumberSum {
+public class TwoNumberSum {
     public static int[] twoNumberSum(int[] array, int targetSum) {
         for (int n : array) {
             int neededValue = targetSum - n;

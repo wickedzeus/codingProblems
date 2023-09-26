@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class sortedSquaredArray {
+public class SortedSquaredArray {
     public int[] sortedSquaredArray(int[] array) {
         int[] outputArray = new int[array.length];
         for(int n = 0; n < array.length; n++) {

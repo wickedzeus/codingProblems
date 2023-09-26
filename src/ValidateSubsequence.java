@@ -1,6 +1,6 @@
 import java.util.List;
 
-public class validateSubsequence {
+public class ValidateSubsequence {
     public static boolean isValidSubsequence(
             List<Integer> array, List<Integer> sequence
     ) {
